@@ -15,7 +15,7 @@
 
 ### Formations :
 
-**depuis 2016 :** Manager de projet Web et Digital
+**2016/2018 :** Manager de projet Web et Digital
 **2015/2016 :** Chef de Projet Marketing Internet à Cepreco à Roubaix
 <br>
 **2013/2015 :**  Concepteur en communication Multicanal à Cepreco à Roubaix
