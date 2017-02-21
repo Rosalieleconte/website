@@ -1,6 +1,7 @@
 body{
   text-align: center;
   width:100%;
+  font-family: raleway;
 }
 
 .container{
@@ -15,8 +16,8 @@ body{
 }
 
 hr{
-  width:50%;
-  margin: auto 0;
+  width:40%;
+  text-align: center;
 }
 
 h1 {
@@ -27,7 +28,7 @@ h1 {
 }
 
 p {
-    font-family: Roboto;
+    font-family: raleway;
     font-size: 14px;
 }
 
