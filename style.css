@@ -1,11 +1,16 @@
 body{
   text-align: center;
-  width:80%;
+  width:100%;
 }
 
 .header{
   text-align: center;
-  line-height: 1em;
+  line-height: 0.7em;
+}
+
+hr{
+  width:50%;
+  margin: auto 0;
 }
 
 h1 {
@@ -20,14 +25,8 @@ p {
     font-size: 16px;
 }
 
-.left {
+.experience {
   float:left;
-  width: 50%;
-  text-align: left;
-}
-
-.right {
-  float:right;
-  width:50%;
+  width: 60%;
   text-align: left;
 }
